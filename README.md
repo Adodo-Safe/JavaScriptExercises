@@ -1,4 +1,4 @@
-# JavaScript Exercises
+# JavaScript Exercises(TechCrush)
 
 This repository contains solutions to JavaScript exercises for learning purposes.  
 It includes 4 files, each covering different sets of questions.
