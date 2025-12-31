@@ -1,10 +1,8 @@
-//exercise1if
+//exercise1
 let firstName = "Safe";
 let lastName = "Soar";
 let age = 30;
 console.log(`My name is ${lastName} ${firstName}, and i am ${age} years old`);
-
-console.log(`_______________`);
 
 //exercise2
 let num1 = 15;
